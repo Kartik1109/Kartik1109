@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kartik Chaudhari!</h1>
-<h3 align="center">A passionate full stack developer from Canada!</h3>
+<h3 align="center">A passionate Full Stack Developer from Canada!</h3>
 
-- 🔭 I’m currently interning at a **Canadian Company**
+- 🔭 I’m currently interning at a **Canadian Company :)**
 
-- 👯 I’m looking to collaborate on **Software Projects**
+- 👯 I’m looking to collaborate on **Software Projects.**
 
 - 💬 Ask me about **Python, Javascript, SQL, Docker, Kafka and many more!**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I once wrote a program so efficient that it made my computer blush :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
