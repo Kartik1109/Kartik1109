@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Software Projects.**
 
-- 💬 Ask me about **Python, Javascript, SQL, Docker, Kafka and many more!**
+- 💬 Ask me about **Python, Javascript, SQL, Docker, Kafka or anything you see from  my skills!**
 
 - ⚡ Fun fact **I once wrote a program so efficient that it made my computer blush :)**
 
