@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently interning at a **Canadian Company :)**
 
+- 🎓 I am pursuing Honours in Software Engineering at **McMaster University.**
+
 - 👯 I’m looking to collaborate on **Software Projects.**
 
 - 💬 Ask me about **Python, Javascript, SQL, Docker, Kafka and many more!**
