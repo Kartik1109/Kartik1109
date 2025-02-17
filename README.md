@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I once wrote a program so efficient that it made my computer blush :)**
 
-- 🎯 Extracurricular Activities: **Director at Ontario Engineering Competition, Teaching Assistant for AI and Discrete Math, VP for Software Club, Engineer Ambassador**
+- 🎯 Extracurricular Activities: **Director at Ontario Engineering Competition, Teaching Assistant for AI and Discrete Math, VP for Software Club, Engineering Ambassador**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
